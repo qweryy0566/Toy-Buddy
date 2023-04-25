@@ -7,6 +7,7 @@
 int fake_mode = 0;
 int cont = 0;
 
+#define MAXRANK (16)
 #define TESTSIZE (128)
 #define MAXRANK0PAGE (TESTSIZE * 1024 / 4)
 int tCnt = 0;
